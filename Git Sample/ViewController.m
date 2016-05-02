@@ -16,6 +16,9 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    NSLog(@"show in git....");
+    NSLog(@"show in git....");
+
     // Do any additional setup after loading the view, typically from a nib.
 }
 
